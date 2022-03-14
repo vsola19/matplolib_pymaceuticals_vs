@@ -1,0 +1,11 @@
+Observations and Insights:
+
+#1. When viewing the bar graphs, it was evident that two drug regimens of "Capomulin" and "Ramicane" was used on the most number of mice. In addition, the mean (average) tumor volumes in (mm3) also showed that "Capomulin" and "Ramicane" had reduced tumor volumes the most compared to the other drug regimens.
+
+#2. The drug regimen of "Infubinol" had generated a single outlier, as all of its other data showed it was a less effective treatment when compared to "Capomulin" and "Ramicane" drug regimens.
+
+#3. When evaluating a single mouse with "Capomulin", it showed that the tumor volume (mm3) had decreased from day 0 to day 45, indicating a statistical significance of the drug regimen success in reducing tumor size for this one mouse (m601) only. 
+
+#4. "Capomulin" and "Ramicane" drug regimens are deemed to be the two most effective at reducing tumor size according to the data set. Further trialling of both of these drug regimens with larger participants (or more mice) would be helpful for scientists to determine with more confidence which drug regimen would be most suitable for wide-scale use upon approval from relevant authorities.
+
+#5. A correlation value of 0.84 indicates a strong correlation between the relationship of heavier mice and larger sized tumor volumes. This indicates that heavier mice are at higher risk of larger tumors compared to lighter mice. Scientists may want to consider methods to promote mice reducing/losing weight rather than relying on the drug regimens that were studied in this data set.
